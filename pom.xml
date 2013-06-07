@@ -13,7 +13,7 @@
   <distributionManagement>
   	<repository>
   		<id>home-release</id>
-  		<url>scp://awj.dyndns.org</url>
+  		<url>scp://awj.dyndns.org/home/aj/</url>
   	</repository>
   </distributionManagement>
   
