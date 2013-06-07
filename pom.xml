@@ -5,6 +5,6 @@
   <version>0.0.1</version>
   
   <scm>
-    <developerConnection>scm:git:git://git@github.com:sapiensantiquus/test-project.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:sapiensantiquus/test-project.git</developerConnection>
   </scm>
 </project>
