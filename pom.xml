@@ -7,14 +7,12 @@
   <scm>
     <developerConnection>scm:git:git@github.com:sapiensantiquus/test-project.git</developerConnection>
   </scm>
+  
+  
   <distributionManagement>
   	<repository>
   		<id>home-release</id>
   		<url>sftp://awj.dyndns.org</url>
   	</repository>
-  	<snapshotRepository>
-  		<id>home-snapshot</id>
-  		<url>sftp://awj.dyndns.org</url>
-  	</snapshotRepository>
   </distributionManagement>
 </project>
