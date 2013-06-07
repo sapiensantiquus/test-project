@@ -9,10 +9,21 @@
   </scm>
   
   
+  
   <distributionManagement>
   	<repository>
   		<id>home-release</id>
-  		<url>sftp://awj.dyndns.org</url>
+  		<url>scp://awj.dyndns.org</url>
   	</repository>
   </distributionManagement>
+  
+  <build>
+  	<extensions>
+  		<extension>
+	        <groupId>org.apache.maven.wagon</groupId>
+         	<artifactId>wagon-ssh-external</artifactId>
+        	<version>2.4</version>
+  		</extension>
+  	</extensions>
+  </build>
 </project>
