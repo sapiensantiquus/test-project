@@ -3,4 +3,8 @@
   <groupId>test-project</groupId>
   <artifactId>test-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <scm>
+    <developerConnection>scm:git:git://git@github.com:sapiensantiquus/test-project.git</developerConnection>
+  </scm>
 </project>
