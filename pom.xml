@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>test-project</groupId>
   <artifactId>test-project</artifactId>
-  <version>0.0.7</version>
+  <version>0.0.8-SNAPSHOT</version>
   
   <scm>
     <developerConnection>scm:git:git@github.com:sapiensantiquus/test-project.git</developerConnection>
